@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+#Virual Environment
+venv/
+.venv/
+
+#Environmental Variables
+.env/
+
+#IDE
+.vscode/
+.idea/
